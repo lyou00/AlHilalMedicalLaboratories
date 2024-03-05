@@ -2,11 +2,11 @@
   --rich-black-fogra-29: hsl(0, 0%, 0%);
   --middle-blue-green_40: #0062cc;
   --midnight-green: #0062cc;
-  --midnight-green_a25: hsla(226, 95%, 35%, 0.801);
-  --independece: hsl(236, 14%, 39%);
+  --midnight-green_a25: hsla(226, 96%, 35%, 0.842);
+  --independece: hsla(231, 94%, 35%, 1);
   --verdigris: hsl(239, 87%, 50%);
   --ming: hsl(258, 100%, 30%);
-  --space-cadet: hsla(226, 45%, 24%);
+  --space-cadet: rgb(9, 15, 36);
   --eerie-black: hsl(0, 0%, 13%);
   --alice-blue: hsl(187, 25%, 94%);
   --gray-web: hsl(253, 100%, 27%);
@@ -115,7 +115,7 @@ html {
 body {
   /* background-color: var(--white); */
   font-size: 1.6rem;
-  color: #44758c;
+  color: #2a03b6;
   line-height: 1.8;
   overflow: hidden;
 }
